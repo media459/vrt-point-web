@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "vrt-point",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-15",
+  "assets": { "directory": "./public" },
+  "vars": { "GOOGLE_SCRIPT_URL": "", "WORKER_SECRET": "" }
+}
